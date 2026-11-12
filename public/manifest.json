@@ -1,0 +1,9 @@
+{
+  "name": "BloodLink ColdChain",
+  "short_name": "BloodLink",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#0A1628",
+  "icons": []
+}
