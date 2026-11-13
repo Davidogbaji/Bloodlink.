@@ -91,7 +91,7 @@ INSERT INTO hospitals (name, address, state, lga, emergency_phone, has_generator
 VALUES
 -- Nasarawa State
 ('Federal Medical Centre (FMC), Keffi', 'Abuja-Keffi Expressway, Keffi, Nasarawa State', 'Nasarawa', 'Keffi', '+2348028743120', true),
-('Dalhatu Araf Specialist Hospital (DASH)', 'Shendam Road, Lafia, Nasarawa State', 'Nasarawa', 'Lafia', '+2348035987112', true),
+('Federal University Teaching Hospital Lafia (FUTH Lafia)', 'Shendam Road, Lafia, Nasarawa State', 'Nasarawa', 'Lafia', '+2348035987112', true),
 ('General Hospital, Akwanga', 'Jos Road, Akwanga, Nasarawa State', 'Nasarawa', 'Akwanga', '+2348051239841', true),
 ('General Hospital, Karu', 'Old Karu Road, Karu, Nasarawa State', 'Nasarawa', 'Karu', '+2348067812345', false),
 ('General Hospital, Nasarawa', 'Keffi-Nasarawa Road, Nasarawa, Nasarawa State', 'Nasarawa', 'Nasarawa', '+2348074561230', true),
